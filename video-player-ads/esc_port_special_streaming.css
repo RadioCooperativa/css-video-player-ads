@@ -1,0 +1,60 @@
+/*PLAYER INHOUSE SPECIAL STREAMING AD 08042020*/
+article#streaming-especial {
+    position: relative !important;
+}
+.ima-player-rudo{position: absolute;padding-bottom: 56.25%;/* height: 0; */overflow: hidden;max-width: 100%;background: #000 url(/noticias/imag/cooperativa_2018/iconos/logos/cooperativa.gif);z-index: 99;bottom: 50px;width: 100%;height: auto;height: 0;overflow: hidden;background-size: 50%;background-position: center;background-repeat: no-repeat;}
+
+.contenedor-datos-streaming{text-transform:none;padding:10px 0;}
+
+.ima-especial-streaming {display: table;position: absolute;left: 0;top: 0;width: 100%;height: 100%;/* background: yellowgreen; */}
+#content_video {overflow: hidden;}
+.contControlsVideo-especial-streaming{width: 100%;height: 28px;bottom: 0px;position: absolute;}
+.contControlsVideo-especial-streaming .buttonAudio-especial-streaming{width: 28px;height: 28px;bottom: 0;background-image: url('/noticias/stat/includes/publicidad/img/iconos/Play_sonido-01.svg');float:right;display: none;background-repeat: no-repeat;margin: -5px 5px 0 0;cursor: pointer;}
+.contControlsVideo-especial-streaming .buttonMute-especial-streaming{width: 28px;height: 28px;bottom: 0;background-image: url('/noticias/stat/includes/publicidad/img/iconos/mute_mute__-01.svg');float:right;display: none;background-repeat: no-repeat;margin: -5px 5px 0 0;cursor: pointer;}
+.video-especial-streaming{display: none;margin: 0 auto;position: absolute;/* top: 10px; *//* left: 20px; */z-index: 9999999;width: 100%;/* padding-bottom: 56.25%; */height: 100%;/* background: #ff6800; */}
+.closeWrapper-especial-streaming{width: 30px;height: 28px;position: absolute;top: 7px;right: 0;}
+.closeWrapper-especial-streaming .contentClose-especial-streaming{width: 30px;height: 28px;float: left;}
+.closeWrapper-especial-streaming .contentCloseImg-especial-streaming{width: 100%;height: 15px;background-image: url('/noticias/stat/includes/publicidad/img/iconos/Cerrar_cerrar___-01.svg');float: left;cursor: pointer;margin-top: -28px;background-repeat:no-repeat;}
+
+
+
+#ima-especial-streaming > div{position: absolute;width: 100% !important;height: 100% !important;}
+/*PLAYER INHOUSE SPECIAL STREAMING AD 08042020*/
+
+/*
+para 16:9;
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+}
+
+.video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+*/
+
+/*
+
+#content_video {overflow: hidden;}
+.contControlsVideo-especial-streaming{width: 100%;height: 28px;bottom: 0px;position: absolute;}
+.contControlsVideo-especial-streaming .buttonAudio-especial-streaming{width: 28px;height: 28px;bottom: 0;background-image: url('/noticias/stat/includes/publicidad/img/iconos/Play_sonido-01.svg');float:right;display: none;background-repeat: no-repeat;margin: -5px 5px 0 0;cursor: pointer;}
+.contControlsVideo-especial-streaming .buttonMute-especial-streaming{width: 28px;height: 28px;bottom: 0;background-image: url('/noticias/stat/includes/publicidad/img/iconos/mute_mute__-01.svg');float:right;display: none;background-repeat: no-repeat;margin: -5px 5px 0 0;cursor: pointer;}
+.video-especial-streaming{display:block;position: absolute; width: 100%;
+  padding-bottom: 56.25%;}
+  .ima-especial-streaming {
+position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;}
+.closeWrapper-especial-streaming{width: 30px;height: 28px;position: absolute;top: -188px;right: 0;}
+.closeWrapper-especial-streaming .contentClose-especial-streaming{width: 30px;height: 28px;float: left;}
+.closeWrapper-especial-streaming .contentCloseImg-especial-streaming{width: 100%;height: 15px;background-image: url('/noticias/stat/includes/publicidad/img/iconos/Cerrar_cerrar___-01.svg');float: left;cursor: pointer;margin-top: -28px;background-repeat:no-repeat;}
+
+*/
