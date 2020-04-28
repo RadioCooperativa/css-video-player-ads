@@ -1,4 +1,3 @@
-/*PLAYER INHOUSE AD 26032020*/
 #ima-inread                                         {border-radius: 5px;width: 640px;height: 388px;margin-left: auto;margin-right: auto;display: none;}
 #content_video                                      {overflow: hidden;}
 .contControlsVideo-inread                           {width: 100%;height: 28px;bottom: 0px;position: absolute;display: none;}
@@ -10,5 +9,3 @@
 .closeWrapper-inread .contentCloseImg-inread        {width: 100%;height: 28px;background-image: url('/noticias/stat/includes/publicidad/img/iconos/Cerrar_cerrar___-01.svg');float: left;cursor: pointer;margin-top: -28px;background-repeat:no-repeat;}
 .contMiniPlayer                                     {position: fixed !important;bottom: 20px;right: 20px;width: 350px !important ;height: 200px !important ;animation: fade-in-up .25s ease forwards !important;padding-bottom: 10px;z-index: 1;}
 .content-reproductor-inread                         {position: relative;}
-
-/*FIN PLAYER INHOUSE AD 26032020*/
