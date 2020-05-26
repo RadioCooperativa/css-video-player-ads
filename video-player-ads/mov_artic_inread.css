@@ -11,4 +11,5 @@
 .content_video                                          {position: relative;background-color: #000;border-radius: 5px;width: 300px;height: 250px;margin-left: auto;margin-right: auto;margin-top: 20px;}
 .contMiniPlayer                                         {position: fixed !important;bottom: 20px;right: 20px;width: 275px !important ;height: 155px !important ;animation: fade-in-up .25s ease forwards !important;padding-bottom: 10px;z-index: 2;}
 .content-reproductor-inread                             {position: relative;}
+.content_video-inread									{max-width: 300px;max-height: 250px}
 /*FIN PLAYER INHOUSE AD 26032020*/
